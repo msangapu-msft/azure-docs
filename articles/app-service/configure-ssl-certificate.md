@@ -5,7 +5,7 @@ keywords: TLS/SSL certificate installation, Azure security, HTTPS setup, custom 
 tags: buy-ssl-certificates
 
 ms.topic: tutorial
-ms.date: 02/14/2025
+ms.date: 06/04/2026
 ms.reviewer: yutlin
 ms.author: msangapu
 author: msangapu-msft
